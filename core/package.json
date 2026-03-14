@@ -34,7 +34,7 @@
     "postcss-nested": "^7.0.2",
     "postcss-reporter": "^7.1.0",
     "postcss-scss": "^4.0.9",
-    "pug": "^3.0.3",
+    "pug": "^3.0.4",
     "puglint-stylish": "^1.1.0",
     "sass": "^1.98.0",
     "sharp": "^0.34.5",
